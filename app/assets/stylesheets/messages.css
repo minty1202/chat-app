@@ -73,16 +73,16 @@
   overflow: scroll;
 }
 .message {
-  padding-top: 10px;
+  margin-top: 10px;
 }
 .upper-message {
   display: flex;
 }
 .message-user {
-  color: #433a54;
+  color: #434a54;
   font-size: 16px;
 }
-.message-data {
+.message-date {
   color: #999;
   font-size: 12px;
   padding-left: 10px;
